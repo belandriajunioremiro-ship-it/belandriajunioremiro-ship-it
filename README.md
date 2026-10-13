@@ -7,9 +7,9 @@
 <br />
 
 <a href="mailto:belandriajunioremiro@gmail.com"><img src="https://img.shields.io/badge/CORREO-1A7BFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
-<a href="https://www.tiktok.com/@junior.dev"><img src="https://img.shields.io/badge/TIKTOK-05080F?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-<a href="https://github.com/belandriajunioremiro-ship-it"><img src="https://img.shields.io/badge/GITHUB-05080F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://img.shields.io/badge/T%C3%81CHIRA%2C_VENEZUELA-05080F?style=for-the-badge&logo=googlemaps&logoColor=1A7BFF" alt="Ubicación" />
+<a href="https://www.tiktok.com/@junior.dev"><img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+<a href="https://github.com/belandriajunioremiro-ship-it"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/T%C3%81CHIRA%2C_VENEZUELA-000000?style=for-the-badge&logo=googlemaps&logoColor=FFFFFF" alt="Ubicación" />
 <img src="https://img.shields.io/badge/REMOTO-DISPONIBLE-1A7BFF?style=for-the-badge" alt="Disponible para trabajo remoto" />
 
 </div>
@@ -37,46 +37,46 @@ Diseño y construyo software que resuelve problemas concretos: **sistemas de pun
 
 **BACKEND**
 
-![Laravel](https://img.shields.io/badge/Laravel-05080F?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![PHP](https://img.shields.io/badge/PHP-05080F?style=for-the-badge&logo=php&logoColor=777BB4)
-![NestJS](https://img.shields.io/badge/NestJS-05080F?style=for-the-badge&logo=nestjs&logoColor=E0234E)
-![Node.js](https://img.shields.io/badge/Node.js-05080F?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Python](https://img.shields.io/badge/Python-05080F?style=for-the-badge&logo=python&logoColor=3776AB)
-![FastAPI](https://img.shields.io/badge/FastAPI-05080F?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Flask](https://img.shields.io/badge/Flask-05080F?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FFFFFF)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FFFFFF)
+![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=FFFFFF)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 **FRONTEND**
 
-![React](https://img.shields.io/badge/React-05080F?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-05080F?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-05080F?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-05080F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Astro](https://img.shields.io/badge/Astro-05080F?style=for-the-badge&logo=astro&logoColor=FF5D01)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-05080F?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Vite](https://img.shields.io/badge/Vite-05080F?style=for-the-badge&logo=vite&logoColor=646CFF)
-![HTML5](https://img.shields.io/badge/HTML5-05080F?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-05080F?style=for-the-badge&logo=css3&logoColor=1572B6)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FFFFFF)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
+![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)
+![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FFFFFF)
 
 **ESCRITORIO**
 
-![Tauri](https://img.shields.io/badge/Tauri-05080F?style=for-the-badge&logo=tauri&logoColor=FFC131)
-![OpenCV](https://img.shields.io/badge/OpenCV-05080F?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![Tauri](https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri&logoColor=FFFFFF)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=FFFFFF)
 
 **BASES DE DATOS**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05080F?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-05080F?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![SQLite](https://img.shields.io/badge/SQLite-05080F?style=for-the-badge&logo=sqlite&logoColor=0F80CC)
-![Supabase](https://img.shields.io/badge/Supabase-05080F?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=FFFFFF)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=FFFFFF)
 
 **HERRAMIENTAS Y DESPLIEGUE**
 
-![Git](https://img.shields.io/badge/Git-05080F?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-05080F?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-05080F?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-05080F?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-05080F?style=for-the-badge&logo=linux&logoColor=FCC624)
-![VS Code](https://img.shields.io/badge/VS_Code-05080F?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
 
 </div>
 
@@ -86,12 +86,12 @@ Diseño y construyo software que resuelve problemas concretos: **sistemas de pun
 
 <div align="center">
 
-<a href="https://github.com/belandriajunioremiro-ship-it/tiendapos-api"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=belandriajunioremiro-ship-it&repo=tiendapos-api&theme=dark&bg_color=05080F&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=9FB4D6&hide_border=false" alt="tiendapos-api" /></a>
-<a href="https://github.com/belandriajunioremiro-ship-it/sistema-de-fiados"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=belandriajunioremiro-ship-it&repo=sistema-de-fiados&theme=dark&bg_color=05080F&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=9FB4D6" alt="sistema-de-fiados" /></a>
-<a href="https://github.com/belandriajunioremiro-ship-it/AppCobros"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=belandriajunioremiro-ship-it&repo=AppCobros&theme=dark&bg_color=05080F&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=9FB4D6" alt="AppCobros" /></a>
-<a href="https://github.com/belandriajunioremiro-ship-it/TiendaPos"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=belandriajunioremiro-ship-it&repo=TiendaPos&theme=dark&bg_color=05080F&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=9FB4D6" alt="TiendaPos" /></a>
-<a href="https://github.com/belandriajunioremiro-ship-it/GeoCatastro"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=belandriajunioremiro-ship-it&repo=GeoCatastro&theme=dark&bg_color=05080F&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=9FB4D6" alt="GeoCatastro" /></a>
-<a href="https://github.com/belandriajunioremiro-ship-it/posventabol"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=belandriajunioremiro-ship-it&repo=posventabol&theme=dark&bg_color=05080F&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=9FB4D6" alt="posventabol" /></a>
+<a href="https://github.com/belandriajunioremiro-ship-it/tiendapos-api"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=belandriajunioremiro-ship-it&repo=tiendapos-api&theme=dark&bg_color=000000&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=EAF0FF&hide_border=false" alt="tiendapos-api" /></a>
+<a href="https://github.com/belandriajunioremiro-ship-it/sistema-de-fiados"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=belandriajunioremiro-ship-it&repo=sistema-de-fiados&theme=dark&bg_color=000000&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=EAF0FF" alt="sistema-de-fiados" /></a>
+<a href="https://github.com/belandriajunioremiro-ship-it/AppCobros"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=belandriajunioremiro-ship-it&repo=AppCobros&theme=dark&bg_color=000000&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=EAF0FF" alt="AppCobros" /></a>
+<a href="https://github.com/belandriajunioremiro-ship-it/TiendaPos"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=belandriajunioremiro-ship-it&repo=TiendaPos&theme=dark&bg_color=000000&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=EAF0FF" alt="TiendaPos" /></a>
+<a href="https://github.com/belandriajunioremiro-ship-it/GeoCatastro"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=belandriajunioremiro-ship-it&repo=GeoCatastro&theme=dark&bg_color=000000&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=EAF0FF" alt="GeoCatastro" /></a>
+<a href="https://github.com/belandriajunioremiro-ship-it/posventabol"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=belandriajunioremiro-ship-it&repo=posventabol&theme=dark&bg_color=000000&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=EAF0FF" alt="posventabol" /></a>
 
 </div>
 
@@ -101,8 +101,8 @@ Diseño y construyo software que resuelve problemas concretos: **sistemas de pun
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=belandriajunioremiro-ship-it&show_icons=true&theme=dark&bg_color=05080F&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=9FB4D6&ring_color=1A7BFF&hide_border=false" alt="Estadísticas de GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belandriajunioremiro-ship-it&layout=compact&theme=dark&bg_color=05080F&border_color=1A7BFF&title_color=1A7BFF&text_color=9FB4D6&hide_border=false" alt="Lenguajes más usados" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=belandriajunioremiro-ship-it&show_icons=true&theme=dark&bg_color=000000&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=EAF0FF&ring_color=1A7BFF&hide_border=false" alt="Estadísticas de GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belandriajunioremiro-ship-it&layout=compact&theme=dark&bg_color=000000&border_color=1A7BFF&title_color=1A7BFF&text_color=EAF0FF&hide_border=false" alt="Lenguajes más usados" />
 
 </div>
 
@@ -113,7 +113,7 @@ Diseño y construyo software que resuelve problemas concretos: **sistemas de pun
 <div align="center">
 
 <a href="mailto:belandriajunioremiro@gmail.com"><img src="https://img.shields.io/badge/belandriajunioremiro%40gmail.com-1A7BFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
-<a href="https://www.tiktok.com/@junior.dev"><img src="https://img.shields.io/badge/%40junior.dev-05080F?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+<a href="https://www.tiktok.com/@junior.dev"><img src="https://img.shields.io/badge/%40junior.dev-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 
 <br /><br />
 
