@@ -14,6 +14,12 @@
 <img src="https://img.shields.io/badge/T%C3%81CHIRA%2C_VENEZUELA-000000?style=for-the-badge&logo=googlemaps&logoColor=FFFFFF" alt="Ubicación" />
 <img src="https://img.shields.io/badge/REMOTO-DISPONIBLE-1A7BFF?style=for-the-badge" alt="Disponible para trabajo remoto" />
 
+<br /><br />
+
+<!-- 🐍 Serpiente de contribuciones (autoactualizada por GitHub Actions) -->
+<img src="https://raw.githubusercontent.com/junnior-dev/junnior-dev/output/github-snake-dark.svg#gh-dark-mode-only" alt="Serpiente recorriendo mi grafico de contribuciones" width="100%" />
+<img src="https://raw.githubusercontent.com/junnior-dev/junnior-dev/output/github-snake.svg#gh-light-mode-only" alt="Serpiente recorriendo mi grafico de contribuciones" width="100%" />
+
 </div>
 
 <br />
@@ -30,12 +36,12 @@
 
 <div align="center">
 
-<a href="https://github.com/junnior-dev/tiendapos-api"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=junnior-dev&repo=tiendapos-api&theme=dark&bg_color=000000&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=EAF0FF" alt="tiendapos-api" /></a>
-<a href="https://github.com/junnior-dev/TiendaPos"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=junnior-dev&repo=TiendaPos&theme=dark&bg_color=000000&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=EAF0FF" alt="TiendaPos" /></a>
-<a href="https://github.com/junnior-dev/AppTiendaPOS"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=junnior-dev&repo=AppTiendaPOS&theme=dark&bg_color=000000&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=EAF0FF" alt="AppTiendaPOS" /></a>
-<a href="https://github.com/junnior-dev/srcmapi"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=junnior-dev&repo=srcmapi&theme=dark&bg_color=000000&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=EAF0FF" alt="srcmapi" /></a>
-<a href="https://github.com/junnior-dev/sistemacatastro"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=junnior-dev&repo=sistemacatastro&theme=dark&bg_color=000000&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=EAF0FF" alt="sistemacatastro" /></a>
-<a href="https://github.com/junnior-dev/GeoCatastro"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=junnior-dev&repo=GeoCatastro&theme=dark&bg_color=000000&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=EAF0FF" alt="GeoCatastro" /></a>
+<a href="https://github.com/junnior-dev/tiendapos-api"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=junnior-dev&repo=tiendapos-api&theme=dark&bg_color=000000&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=EAF0FF&cache_seconds=86400" alt="tiendapos-api" /></a>
+<a href="https://github.com/junnior-dev/TiendaPos"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=junnior-dev&repo=TiendaPos&theme=dark&bg_color=000000&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=EAF0FF&cache_seconds=86400" alt="TiendaPos" /></a>
+<a href="https://github.com/junnior-dev/AppTiendaPOS"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=junnior-dev&repo=AppTiendaPOS&theme=dark&bg_color=000000&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=EAF0FF&cache_seconds=86400" alt="AppTiendaPOS" /></a>
+<a href="https://github.com/junnior-dev/srcmapi"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=junnior-dev&repo=srcmapi&theme=dark&bg_color=000000&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=EAF0FF&cache_seconds=86400" alt="srcmapi" /></a>
+<a href="https://github.com/junnior-dev/sistemacatastro"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=junnior-dev&repo=sistemacatastro&theme=dark&bg_color=000000&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=EAF0FF&cache_seconds=86400" alt="sistemacatastro" /></a>
+<a href="https://github.com/junnior-dev/GeoCatastro"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=junnior-dev&repo=GeoCatastro&theme=dark&bg_color=000000&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=EAF0FF&cache_seconds=86400" alt="GeoCatastro" /></a>
 
 </div>
 
@@ -43,8 +49,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=junnior-dev&show_icons=true&theme=dark&bg_color=000000&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=EAF0FF&ring_color=1A7BFF&count_private=true" alt="Estadísticas de GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junnior-dev&layout=compact&theme=dark&bg_color=000000&border_color=1A7BFF&title_color=1A7BFF&text_color=EAF0FF" alt="Lenguajes más usados" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=junnior-dev&background=000000&border=1A7BFF&stroke=30363D&ring=1A7BFF&fire=1A7BFF&currStreakNum=EAF0FF&sideNums=EAF0FF&currStreakLabel=1A7BFF&sideLabels=9BA4B5&dates=6E7681" alt="Racha de contribuciones" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=junnior-dev&show_icons=true&theme=dark&bg_color=000000&border_color=1A7BFF&title_color=1A7BFF&icon_color=1A7BFF&text_color=EAF0FF&ring_color=1A7BFF&count_private=true&cache_seconds=86400" alt="Estadísticas de GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junnior-dev&layout=compact&theme=dark&bg_color=000000&border_color=1A7BFF&title_color=1A7BFF&text_color=EAF0FF&cache_seconds=86400" alt="Lenguajes más usados" />
 
 </div>
 
