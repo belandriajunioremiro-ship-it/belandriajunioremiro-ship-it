@@ -4,7 +4,7 @@
 
 <br />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1200&color=1A7BFF&center=true&vCenter=true&width=640&height=40&lines=Ingeniero+de+Sistemas+%C2%B7+Full+Stack+Developer;Sistemas+POS+y+software+a+la+medida;Web+%C2%26+Escritorio+%C2%B7+Laravel+%C2%B7+React+%C2%B7+Python;%C2%BFCotizamos+tu+proyecto%3F+Escr%C3%ADbeme" alt="Animación de escritura" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1000&color=1A7BFF&center=true&vCenter=true&width=640&height=40&lines=Ingeniero+de+Sistemas+%C2%B7+Full+Stack+Developer;Sistemas+POS+y+software+a+la+medida;Web+%C2%26+Escritorio+%C2%B7+Laravel+%C2%B7+React+%C2%B7+Python;%C2%BFCotizamos+tu+proyecto%3F+Escr%C3%ADbeme" alt="Animación de escritura" /></a>
 
 <br />
 
