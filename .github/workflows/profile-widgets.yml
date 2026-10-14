@@ -21,8 +21,8 @@ jobs:
         with:
           github_user_name: junnior-dev
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#1A7BFF&color_dots=#ebedf0,#cfe4ff,#9bc9ff,#5aa2ff,#1A7BFF
+            dist/github-snake-dark.svg?color_snake=#1A7BFF&color_dots=#161b22,#0d2b4a,#11497d,#1666ad,#1A7BFF
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
