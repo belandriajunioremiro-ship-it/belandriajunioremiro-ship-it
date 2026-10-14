@@ -34,24 +34,3 @@ jobs:
           commit_message: "chore(widgets): actualiza snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  # Grafico de actividad de desarrollo (rama main, carpeta assets/)
-  activity-graph:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generar activity graph
-        uses: Ashutosh00710/generate-readme-activity-graph@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: junnior-dev
-          HIDE_TITLE: "false"
-          HIDE_BORDER: "false"
-          BG_COLOR: "000000"
-          COLOR: "1A7BFF"
-          LINE_COLOR: "1A7BFF"
-          POINT_COLOR: "FFFFFF"
-          AREA: "true"
-          AREA_COLOR: "1A7BFF33"
-          CUSTOM_TITLE: "Actividad de desarrollo"
-          OUTPUT_FILE_NAME: "assets/activity-graph.svg"
-          COMMIT_MESSAGE: "chore(widgets): actualiza activity graph"
