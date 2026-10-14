@@ -1,0 +1,57 @@
+name: Profile widgets
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/profile-widgets.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  # Serpiente que recorre el grafico de contribuciones (rama 'output')
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generar animacion snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: junnior-dev
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publicar a rama output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore(widgets): actualiza snake"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  # Grafico de actividad de desarrollo (rama main, carpeta assets/)
+  activity-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generar activity graph
+        uses: Ashutosh00710/generate-readme-activity-graph@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: junnior-dev
+          HIDE_TITLE: "false"
+          HIDE_BORDER: "false"
+          BG_COLOR: "000000"
+          COLOR: "1A7BFF"
+          LINE_COLOR: "1A7BFF"
+          POINT_COLOR: "FFFFFF"
+          AREA: "true"
+          AREA_COLOR: "1A7BFF33"
+          CUSTOM_TITLE: "Actividad de desarrollo"
+          OUTPUT_FILE_NAME: "assets/activity-graph.svg"
+          COMMIT_MESSAGE: "chore(widgets): actualiza activity graph"
